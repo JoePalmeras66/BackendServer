@@ -1,6 +1,6 @@
 # Spring-Boot REST-Example Project
 
-
+This project depicts the Spring Boot + Thymeleaf Example with Spring Data REST and JPA Example. H2 in-memory database is used in this example. 
 
 ### Prerequisities
 
